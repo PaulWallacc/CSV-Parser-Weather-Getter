@@ -1,0 +1,5 @@
+c:\users\paul wallace\documents\visual studio 2010\Projects\CSVParser\CSVParser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\paul wallace\documents\visual studio 2010\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+c:\users\paul wallace\documents\visual studio 2010\Projects\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+c:\users\paul wallace\documents\visual studio 2010\Projects\CSVParser\CSVParser\obj\x86\Debug\CSVParser.exe
+c:\users\paul wallace\documents\visual studio 2010\Projects\CSVParser\CSVParser\obj\x86\Debug\CSVParser.pdb
